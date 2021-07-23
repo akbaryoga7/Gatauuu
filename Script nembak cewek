@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
 <html>
-<head><title>Hai vi</title>
-<!-- Created By L3M4R1 -->
+<head><title>halooo san</title>
+<!-- Created By Abang Cilok -->
 <script>alert ('hai')
-alert ('Ini isi hatiku yang sesungguhnya')</script>
+alert ('SUMPAH INI CUMA PERGABUTAN WKWKW')</script>
 <script language="JavaScript"> 
  
 function tb5_makeArray(n){
@@ -12,13 +12,13 @@ function tb5_makeArray(n){
 }
  
 tb5_messages = new tb5_makeArray(7);
-tb5_messages[0] = "Hay Via";
-tb5_messages[1] = "Aku Mau Kamu Tau";
-tb5_messages[2] = "Aku Sayang Sama Kamu";
-tb5_messages[3] = "Aku Serius Vi";
-tb5_messages[4] = "Kamu Mau Ngga Jadi Pacar ku";
-tb5_messages[5] = "Aku berharap kamu menerimanya";
-tb5_messages[6] = "I Love You via!!!";
+tb5_messages[0] = "halo san";
+tb5_messages[1] = "sumpah ini gua gabut bgt wkwkw";
+tb5_messages[2] = "san lu mau tau gaa";
+tb5_messages[3] = "kalo gamau tau gapapa si";
+tb5_messages[4] = "kalo mau tau nih gua kasih tau";
+tb5_messages[5] = "kiko enak tau wkwkwkw";
+tb5_messages[6] = "maapin pergabutan gua ya san wkwkw";
 tb5_rptType = 'infinite';
 tb5_rptNbr = 20;
 tb5_speed = 30;
@@ -87,19 +87,18 @@ tb5_randomizetitle();
 </head>
 <body BGCOLOR="black">
 <center><center>
-<br><font size="6"><font color="red" face="courier new">Touched by:L3M4R1</font>
-<br><br><!-- Created By L3M4R1 -->
-<font size="5"><font color="white" face="courier new">Hai ini dia isi hatiku yang sesungguhnya</font>
-<br><font size="5"><font color="white" face="courier new">Selama ini ku hanya dapat diam dan berdoa kepada Yang Kuasa agar diri mu bisa bersamaku</font>
-<br><font size="5"><font color="white" face="courier new">Namun kali ini Aku ingin mengutarakannya</font>
-<br><font size="5"><font color="white" face="courier new">Mau ga jadi pacarku?!?</font>
-<br><a href="https://api.whatsapp.com/send?phone=6283198529028&text=Ya%20aku%20Mau%20Terima"><input type="button" value="Yes I do" onclick="alert('Thanks yah udah mau trima aku apa ada nya');" style="font size="5"></a><><><><a href="https://api.whatsapp.com/send?phone=6283198529028&text=maaf%20aku%20nggabisa%20Terima"><input type="button" value=" Im sorry" onclick="alert('Baik lah kalau itu mau mu ^_^');" style="font size="5"></a>
-<br><br><br><hr color="red"><!-- Created By L3M4R1 -->
+<br><font size="6"><font color="red" face="courier new">Touched by:Abang Cilok</font>
+<br><br><!-- Created By Abang Cilok -->
+<font size="5"><font color="white" face="courier new">halo saniaa</font>
+<br><font size="5"><font color="white" face="courier new">maapin pergabutan ini wkwkwk</font>
+<br><font size="5"><font color="white" face="courier new">gua boleh nanya ga san?</font>
+<br><font size="5"><font color="white" face="courier new">sania mau ga jadi apa ya, jadi apa prok prok prok wkwkw</font>
+<br><a href="https://api.whatsapp.com/send?phone=6283198529028&text=Ya%20aku%20Mau%20Terima"><input type="button" value="Yes I do" onclick="alert('maapin atas pergabutan duniawi ini wkwkwk');" style="font size="5"></a><><><><a href="https://api.whatsapp.com/send?phone=6283198529028&text=maaf%20aku%20nggabisa%20Terima"><input type="button" value=" Im sorry" onclick="alert('Baik lah kalau itu mau mu ^_^');" style="font size="5"></a>
+<br><br><br><hr color="red"><!-- Created By Abang Cilok -->
 <font size="4"><font color="white" face="courier new">("Thanks to:")</font>
-<marquee><font size="3"><font color="white" face="courier new">[FCSI-Purbalingga Black Hat-Pekalongan Cyber Ghost-Dark Force Army-Indonesia Cyber Lite-Cyber Patah Hati-Hacker Patah Hati-INSULINDER TEAM-Sora Cyber Team-Cyber Kacang Team-Galau Cyber Team-Never Die AFK Cyber-Dunsanak Cyber Security-Kentang Cyber Security-Lollycorp Team-GHD Cyber Army Team-JancoXploit-N45HT-coizter_team]</marquee>
+<marquee><font size="3"><font color="white" face="courier new">[ABANG CILOK DEPAN RUMAHMU SAN WKWKW]</marquee>
 <br><br><font size="4.5"><font color="white" face="courier new">My friends:)</font>
-<br><font size="3.5"><font color="white" face="courier new">[Mr.FOX-Brilly4n-0N3FR13ND5-M4RV3L0U5-K3NZO-katenbad-5TUP1D-B0Y- All member Ghost Hunter Illusion]</font>
-<br><br><br><a href="http://m.facebook.com/L3M4R1.go.id"><input type="button" value="Contact me on facebook" onclick="alert('Loading, click ok');""></a>
+<br><font size="3.5"><font color="white" face="courier new">[KAWANANNYA BIU WKWKWK]</font>
 </body>
 <style type="text/css">
 body, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-9/cur862.ani), url(http://cur.cursors-4u.net/cursors/cur-9/cur862.png), progress !important; 
@@ -127,7 +126,7 @@ position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
 ;(function(){
 
 
-var msg = " Love you via:*";
+var msg = " maap gabut san wkwkw";
 
 var size = 15;
 
